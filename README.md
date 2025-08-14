@@ -1,2 +1,2 @@
-# DS
+# DSA
 learning dsa with c++
